@@ -1,5 +1,7 @@
 
-[<img src="/images/excel-addin.png" width="100%" alt="Excel Add-in"/>](https://github.com/ericwdq/Excel-Add-in-Tutorial/ "Excel Add-in")
+
+[<img src="/images/excel-addin.png" width="100%" alt="Excel Add-in"/>](https://github.com/e/ericwdq/Excel-Add-in-Tutorial/raw/master/images/excel-addin.png "Excel Add-in")
+[<img src="/images/excel-addin2.png" width="100%" alt="Excel Add-in"/>](https://github.com/e/ericwdq/Excel-Add-in-Tutorial/raw/master/images/excel-addin2.png "Excel Add-in")
 # Excel Web Add-in project for use with the Excel Getting Started tutorials
 
 This repo contains the start and end states of an Excel Web Add-in tutorial that show users how to use the Excel.js to create a table, sort a table, filter a table, create a chart, freeze a row of a worksheet, protect the worksheet from editing, and create a custom button on the Excel ribbon.
